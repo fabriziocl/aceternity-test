@@ -1,3 +1,3 @@
 
-## Test for a Aceternity UI navbar
+## Test for an Aceternity UI navbar
 
